@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # SEO Scraper API
 
 A FastAPI-based SEO scraper that extracts metadata from websites using Scrapy and BeautifulSoup.
@@ -171,3 +172,6 @@ All required packages are listed in `requirements.txt`:
 ## License
 
 This project is open source and available under the MIT License. 
+=======
+# seo_scraper
+>>>>>>> 8785ad9b07e78a2eaada10014cefa0b4637c4b1b
